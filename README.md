@@ -70,7 +70,7 @@ git push
 
 **Participation answer** (3 sentences): which driver's strategy differed most from the winner's, and what on the chart shows it?
 
->
+>　The chart I choose is Japanese Grand Prix 2025. Lando Norris’s strategy differed from the winner’s because he started on soft tires and switched to hard tires around lap 15. Most drivers started on medium tires and switched to hard tires later in the race. This made Norris’s tire strategy one of the most different from the winner’s strategy.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
