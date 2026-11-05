@@ -73,7 +73,7 @@ git push
 >　The chart I choose is Japanese Grand Prix 2025. DOO's strategy differed from the winner’s because he started on soft tires and switched to hard tires around lap 15. Most drivers started on medium tires and switched to hard tires later in the race. This made DOO’s tire strategy one of the most different from the winner’s strategy.
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
-
+In the British Grand Prix 2025 (reference: Norris), the race trace shows the field getting pulled back together around laps 10–21, when the lines bunch up toward the zero line under the safety car, and then spreading out again as Norris pulls away. Around laps 39–44 it also shows the switch to dry tyres as sudden drops of about 20 s that partly recover, so I can see who lost or gained time overall from their stop. A plain lap-time chart would only show many small up-and-down spikes, and it would hide how these small differences add up into the real gap between drivers.
 >
 
 **Bonus** (optional): which race did you add, and why?
